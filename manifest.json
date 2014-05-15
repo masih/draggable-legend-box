@@ -1,13 +1,13 @@
 {
     "name": "Draggable-Legend",
     "version": "1.0.2",
-    "title": "Highcharts Draggable Legend",
+    "title": "Highcharts Draggable Legend Box",
     "demo": [
-        "http://jsfiddle.net/highcharts/4jZ7T/"
+        "http://jsfiddle.net/masih/bA6UM/26/"
     ],
     "author": {
-        "name": "Torstein Hønsi",
-        "url": "https://github.com/highslide-software"
+        "name": "Masih",
+        "url": "https://github.com/masih"
     },
     "licenses": [
         {
@@ -15,10 +15,10 @@
             "url": "https://github.com/highslide-software/draggable-legend/blob/master/LICENSE"
         }
     ],
-    "description": "Using this plugin lets the user move the legend around in the chart.",
+    "description": "Using this plugin lets the user move the legend box around in the chart",
     "keywords": [
-     "draggable",
-     "legend"
+        "draggable",
+        "legend"
     ],
     "dependencies": {
         "Highcharts": ">=3.0.0"
