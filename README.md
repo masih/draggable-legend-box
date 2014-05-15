@@ -1,4 +1,4 @@
-draggable-legend-box
+Highcharts Draggable Legend Box
 ================
 Makes the [Highcharts](http://www.highcharts.com/) legend box draggable.
 
