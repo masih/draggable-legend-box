@@ -1,6 +1,6 @@
 draggable-legend-box
 ================
-Makes the [Highcharts] legend box draggable.
+Makes the [Highcharts](http://www.highcharts.com/) legend box draggable.
 
 This a fork of [draggable-legend](https://github.com/highslide-software/draggable-legend).
 In the original the legend is dragged by its title; a legend without title cannot be made draggable.
