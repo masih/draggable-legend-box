@@ -11,5 +11,4 @@ The contents of the plugin is located in the javascript file [`draggable-legend-
 [Demo on JSFiddle](http://jsfiddle.net/masih/bA6UM/27/)
 
 ## License
-This plugin is published under the MIT license.
-The license document is included in the repository.
+This plugin is published under the [MIT](https://github.com/masih/draggable-legend-box/blob/master/LICENSE) license.
