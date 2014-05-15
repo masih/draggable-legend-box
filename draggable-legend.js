@@ -1,7 +1,7 @@
 /**
- * Highcharts plugin for dragging a legend by its title
+ * Highcharts plugin for dragging a legend box
  *
- * Author: Torstein Hønsi
+ * Author: Torstein Hønsi, Masih
  * License: MIT License
  * Requires: Highcharts 3.0+
  *
@@ -18,7 +18,7 @@
         
         var chart = this, 
             legend = chart.legend,
-            title = legend.title,
+            box = legend.box,
             options = legend.options,
             isDragging,
             downX,
@@ -29,11 +29,11 @@
             currentY;
         
         
-        if (options.draggable && title) {
+        if (options.draggable) {
             
-            title.css({ cursor: 'move' });
+            box.css({ cursor: 'move' });
             
-            addEvent(title.element, 'mousedown', function (e) {
+            addEvent(box.element, 'mousedown', function (e) {
                 e = chart.pointer.normalize(e);
                 downX = e.chartX;
                 downY = e.chartY;
