@@ -6,8 +6,8 @@
  * Requires: Highcharts 3.0+
  *
  * Usage: Set draggable:true and floating:true in the legend options. The legend
- * preserves is alignment after dragging. For example if it is aligned to the right,
- * if will keep the same distance to the right edge even after chart resize or
+ * preserves its alignment after dragging. For example if it is aligned to the right,
+ * it will keep the same distance to the right edge even after chart resize or
  * when exporting to a different size.
  */
 (function (H) {
