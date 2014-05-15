@@ -8,7 +8,7 @@ This version makes the legend box draggable regardless of the existence of a leg
 The contents of the plugin is located in the javascript file [`draggable-legend-box.js`](https://github.com/masih/draggable-legend-box/blob/master/draggable-legend-box.js).
 
 ## Demo
-[Demo on JSFiddle](http://jsfiddle.net/masih/bA6UM/26/)
+[Demo on JSFiddle](http://jsfiddle.net/masih/bA6UM/27/)
 
 ## License
 This plugin is published under the MIT license.
