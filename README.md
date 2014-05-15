@@ -1,6 +1,11 @@
-draggable-legend
+draggable-legend-box
 ================
-Using this plugin lets the user move the legend around in the chart.
+Makes the [Highcharts] legend box draggable.
 
-The contents of the plugin is located in the javascript file "draggable-legend.js". 
-This plugin is published under the MIT license, and the license document is included in the repository.
+This a fork of [draggable-legend](https://github.com/highslide-software/draggable-legend).
+In the original the legend is dragged by its title; a legend without title cannot be made draggable.
+This version makes the legend box draggable regardless of the existence of legend title.
+
+The contents of the plugin is located in the javascript file "draggable-legend-box.js". 
+This plugin is published under the MIT license.
+The license document is included in the repository.
